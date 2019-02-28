@@ -3,7 +3,7 @@ This page will cotinually be updated. Keep an eye out!
 # Las Vegas Front-end Engineering Pre-work
 Three months is a short amount of time to teach you everything you need to know to be a great front-end developer. To make sure that we can move as fast as possible and cover all of the topics that we need to cover, here's a list of exercises and reading materials to get you up to speed. Please complete this work before the first day of class.
 
-I expect you to be able to complete these exercises on your own. but if you run into trouble you're welcome to email me: [mike@techimpact.org](mailto:mike@techimpact.org).
+I expect you to be able to complete these exercises on your own. But if you run into trouble you're welcome to email me: [mike@techimpact.org](mailto:mike@techimpact.org).
 
 ### HTML/CSS:
 HTML and CSS are the foundation of all the content of a webpage or web app. However, we will only be spending about one to two weeks on HTML and CSS, so having a basic foundation before class will be very helpful.
@@ -37,7 +37,7 @@ We will use a couple of online services throughout during the class. Please crea
 
 1. Sign up for a [GitHub account](https://github.com). Make sure to add a profile picture and your full name, since this will help me learn your name.
 
-2. You'll need to sign in to the Mac App Store with you Apple ID. If you don't have one, [sign up here](https://appleid.apple.com/).
+2. You'll need to sign in to the Mac App Store with your Apple ID. If you don't have one, [sign up here](https://appleid.apple.com/).
 
 
 ### Basic OS X Skills (optional)
